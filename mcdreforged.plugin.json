@@ -7,7 +7,7 @@
 		"zh_cn": "快速执行命令或命令组"
 	},
 	"author": [
-		"Miketsu"
+		"sihuangwlp@petalmail.com"
 	],
 	"entrypoint": "cmd_auto.cmdAuto",
 	"link": "",
