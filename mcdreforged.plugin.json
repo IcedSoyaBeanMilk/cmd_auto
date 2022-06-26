@@ -1,0 +1,15 @@
+{
+	"id": "cmd_auto",
+	"version": "1.0.0",
+	"name": "CmdAuto",
+	"description": {
+		"en_us": "Quick execute command or command group",
+		"zh_cn": "快速执行命令或命令组"
+	},
+	"author": [
+		"Miketsu"
+	],
+	"entrypoint": "cmd_auto.cmdAuto",
+	"link": "",
+	"resources": []
+}
